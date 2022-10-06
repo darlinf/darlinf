@@ -2,7 +2,7 @@
 - 👀 I’m interested in web develop
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React project
-- 📫 How to reach me [ ] https://linkedin.com/in/darlin-fabian-78a918199
+- 📫 How to reach me https://linkedin.com/in/darlin-fabian-78a918199
 
  
 <!---
